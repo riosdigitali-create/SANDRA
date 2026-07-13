@@ -1,0 +1,86 @@
+{
+  "hero": {
+    "image": "https://images.unsplash.com/photo-1562349486-3355f0c8cefa?w=1600&h=1150&fit=crop&q=80",
+    "title": "MAGENTA",
+    "sub": "Boutique · Nueva colección"
+  },
+  "announcements": [
+    "Envío gratis desde $999 · Entrega local en Chihuahua",
+    "Nueva colección disponible ahora",
+    "Aparta con anticipo · Escríbenos por WhatsApp"
+  ],
+  "settings": {
+    "whatsapp": "526143709395",
+    "phone": "+52 614 370 9395",
+    "address": "Calle 15 de Enero 40B, Col. Diego Lucero, Chihuahua",
+    "freeShip": 999
+  },
+  "products": [
+    {
+      "id": 1,
+      "name": "Vestido Satén Rojo",
+      "cat": "vestidos",
+      "price": 649,
+      "was": null,
+      "img": "https://images.unsplash.com/photo-1612336307429-8a898d10e223?w=800&h=1000&fit=crop&q=80",
+      "badge": "",
+      "desc": "Vestido de satén con caída fluida. Elegante de día, espectacular de noche.",
+      "sizes": ["XS", "S", "M", "L", "XL"]
+    },
+    {
+      "id": 2,
+      "name": "Vestido Rosa Maxi",
+      "cat": "vestidos",
+      "price": 899,
+      "was": null,
+      "img": "https://images.unsplash.com/photo-1473286835901-04adb1afab03?w=800&h=1000&fit=crop&q=80",
+      "badge": "Nuevo",
+      "desc": "Maxivestido de hombros descubiertos. Para brillar sin pedir permiso.",
+      "sizes": ["XS", "S", "M", "L", "XL"]
+    },
+    {
+      "id": 3,
+      "name": "Top Corsé",
+      "cat": "tops",
+      "price": 389,
+      "was": null,
+      "img": "https://images.unsplash.com/photo-1609533896512-68e72be46a33?w=800&h=1000&fit=crop&q=80",
+      "badge": "",
+      "desc": "Top corsé entallado que estiliza tu silueta.",
+      "sizes": ["XS", "S", "M", "L"]
+    },
+    {
+      "id": 4,
+      "name": "Pantalón Palazzo Negro",
+      "cat": "pantalones",
+      "price": 529,
+      "was": 699,
+      "img": "https://images.unsplash.com/photo-1780566758212-d401fdeffbfe?w=800&h=1000&fit=crop&q=80",
+      "badge": "Oferta",
+      "desc": "Tiro alto y pierna amplia. Con caída de pasarela.",
+      "sizes": ["XS", "S", "M", "L", "XL"]
+    },
+    {
+      "id": 5,
+      "name": "Conjunto Blazer + Short",
+      "cat": "conjuntos",
+      "price": 999,
+      "was": null,
+      "img": "https://images.unsplash.com/photo-1590873802674-55bb8f947bc5?w=800&h=1000&fit=crop&q=80",
+      "badge": "Nuevo",
+      "desc": "Blazer entallado y short a juego. Poder y estilo en un solo look.",
+      "sizes": ["XS", "S", "M", "L"]
+    },
+    {
+      "id": 6,
+      "name": "Abrigo Largo Camel",
+      "cat": "abrigos",
+      "price": 1299,
+      "was": null,
+      "img": "https://images.unsplash.com/photo-1619086303291-0ef7699e4b31?w=800&h=1000&fit=crop&q=80",
+      "badge": "",
+      "desc": "Abrigo largo en tono camel. La inversión atemporal.",
+      "sizes": ["S", "M", "L", "XL"]
+    }
+  ]
+}
